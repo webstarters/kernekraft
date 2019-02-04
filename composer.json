@@ -1,0 +1,15 @@
+{
+    "name": "webstarters/kernekraft",
+    "description": "Et plugin til at understøtte andre plugins fra Webstarters.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "1.*"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Peter Jørgensen",
+            "email": "pj@webstarters.dk"
+        }
+    ]
+}

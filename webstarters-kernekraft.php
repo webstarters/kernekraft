@@ -1,13 +1,13 @@
 <?php
 /**
  * @package           webstarters-kernekraft
- * @version           1.5.1
+ * @version           1.6.0
  * @link              https://webstarters.dk
  *
  * Plugin Name:       Webstarters Kernekraft
  * Plugin URI:        https://webstarters.dk
  * Description:       Et plugin til at understøtte andre plugins fra Webstarters.
- * Version:           1.5.1
+ * Version:           1.6.0
  * Author:            Webstarters
  * Author URI:        https://webstarters.dk
  */

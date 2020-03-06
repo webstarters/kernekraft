@@ -20,5 +20,6 @@ if (! defined('ABSPATH')) {
 // Load in our stuff.
 require_once(dirname(__file__) . '/lib/misc.php');
 require_once(dirname(__file__) . '/lib/shortcodes.php');
+require_once(dirname(__file__) . '/src/class-ws-fragment-cache.php');
 
 ?>

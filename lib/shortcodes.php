@@ -45,6 +45,3 @@ function ws_widget($atts) {
     return $output;
 }
 add_shortcode('widget', 'ws_widget');
-
-
-?>

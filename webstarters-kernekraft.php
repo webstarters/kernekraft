@@ -1,13 +1,13 @@
 <?php
 /**
  * @package           webstarters-kernekraft
- * @version           1.5.1
+ * @version           1.6.0
  * @link              https://webstarters.dk
  *
  * Plugin Name:       Webstarters Kernekraft
  * Plugin URI:        https://webstarters.dk
  * Description:       Et plugin til at understøtte andre plugins fra Webstarters.
- * Version:           1.5.1
+ * Version:           1.6.0
  * Author:            Webstarters
  * Author URI:        https://webstarters.dk
  */
@@ -18,7 +18,6 @@ if (! defined('ABSPATH')) {
 }
 
 // Load in our stuff.
-require_once(dirname(__file__) . '/lib/misc.php');
-require_once(dirname(__file__) . '/lib/shortcodes.php');
-
-?>
+require_once(dirname(__FILE__) . '/lib/misc.php');
+require_once(dirname(__FILE__) . '/lib/shortcodes.php');
+require_once(dirname(__FILE__) . '/src/class-ws-fragment-cache.php');
